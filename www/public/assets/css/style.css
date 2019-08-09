@@ -117,9 +117,9 @@ h1
 }
 
 .balancing {
-    -webkit-animation: balancing 0.02s linear infinite;
+    -webkit-animation: balancing 0.5s linear infinite;
 }
 
 .svgg{
-    width: 20vh;
+    width: 10vh;
 }
